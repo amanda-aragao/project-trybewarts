@@ -1,0 +1,20 @@
+.header{
+    background-color: rgb(50, 167, 145);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header img{
+    padding: 10px;
+}
+
+.trybewarts-login{
+ display: flex;
+ align-items: center;
+ width: 450px;
+ align-content:center;
+ justify-content: center;
+ padding: 15px;
+ gap: 5px;
+}
