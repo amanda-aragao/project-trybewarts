@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,16 +9,19 @@
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="./lib/bootstrap-5.3.0-alpha1-dist/css/bootstrap.min.css">
 </head>
+
 <body>
     <header>
         <nav class="header">
             <img class="trybewarts-header-logo" src="images/trybewarts-header-logo.svg" width="140">
+            <h1 id='trybewarts-header-title'>Trybewarts</h1>
             <form class="trybewarts-login">
                 <div>
                     <input type="email" name="email" class="form-control" id="floatingInput" placeholder="Email">
                 </div>
                 <div>
-                    <input type="password" name="password" class="form-control" id="floatingPassword" placeholder="Senha">
+                    <input type="password" name="password" class="form-control" id="floatingPassword"
+                        placeholder="Senha">
                 </div>
                 <div>
                     <button type="button" class="btn btn-light btn-login ">Entrar</button>
@@ -26,6 +30,21 @@
 
         </nav>
     </header>
+    <main>
+        <img id="trybewarts-forms-logo" src="images/trybewarts-colored.svg">
+        <form id='evaluation-form' action="" method="GET">
+            <div>
+                <input type="text" id="input-name" class="form-control"   placeholder="Nome">
+            </div>
+            <div>
+                <input type="text" id="input-lastname" class="form-control"  placeholder="Sobrenome">
+            </div>
+            <div>
+                <input type="email" id="input-email" class="form-control"  placeholder="Email">
+            </div>
+        </form>
+    </main>
     <script type="module" src="/script.js"></script>
 </body>
+
 </html>
