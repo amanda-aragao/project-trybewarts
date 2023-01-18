@@ -29,6 +29,7 @@ main{
 
 #trybewarts-forms-logo{
  height: 500px;
+ margin-top: 25px;
 }
 
 #evaluation-form{
@@ -37,4 +38,8 @@ main{
     width: 675px;
     flex-direction: column;
     
+}
+#nameAndLastName{
+    display: flex;;
+    flex-direction: row;
 }
