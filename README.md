@@ -10,4 +10,4 @@ Se você ama a magia da programação, contribua para tornar esta plataforma ain
 
 A magia está nas linhas de código. Vamos conjurar algo extraordinário! 🧙‍♂️🔮
 
-![Texto Alternativo](pagina.png)
+![foto-pagina](/pagina-principal.png)
