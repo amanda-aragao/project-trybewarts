@@ -1,15 +1,13 @@
 # Escola de Magia de Trybewarts - Formulário de Feedback
 
-Bem-vindo à página de formulário da Escola de Magia de Trybewarts! Neste projeto inspirado em "Harry Potter", os estudantes podem compartilhar feedbacks mágicos sobre sua jornada na escola. Programar aqui é tão mágico quanto as aventuras em Hogwarts!
+Olá, bruxo ou bruxa! 👋
 
-## Sobre o Projeto
-
-Oferecemos aos alunos um espaço para expressar pensamentos e sugestões. Programar é uma jornada de descobertas, assim como as aventuras em Hogwarts.
+Neste projeto inspirado em "Harry Potter", foi criado uma página de formulário, onde os estudantes podem compartilhar seus feedbacks sobre a experiência na escola. Programar aqui é tão encantador quanto as aventuras em Hogwarts!
 
 ## Contribuições
 
-Se você ama a magia da programação, contribua para tornar esta plataforma ainda mais mágica. Envie sugestões, corrija bugs ou adicione novos recursos. Juntos, podemos criar algo incrível!
+Se você também ama a magia da programação, ficarei encantado com suas contribuições para tornar esta plataforma ainda mais mágica. Sinta-se à vontade para enviar sugestões, corrigir bugs ou adicionar novos recursos. Juntos, podemos criar algo verdadeiramente extraordinário!
 
-A magia está nas linhas de código. Vamos conjurar algo extraordinário! 🧙‍♂️🔮
 
+![foto-pagina](/pagina-principal.png)
 ![foto-pagina](/pagina-principal.png)
