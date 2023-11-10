@@ -10,4 +10,3 @@ Se você também ama a magia da programação, ficarei encantado com suas contri
 
 
 ![foto-pagina](/pagina-principal.png)
-![foto-pagina](/pagina-principal.png)
